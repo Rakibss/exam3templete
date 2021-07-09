@@ -129,4 +129,7 @@
     .in_in_img {
         display: none;
     }
+  .menu li ul li ul {
+	display: none;
+}
  }
